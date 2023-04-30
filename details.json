@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 7,
+      "name": "A5 Notebook",
+      "price": 5,
+      "Description": "use this blank-inside notebook as a refill for your medium Minimalist Folio or alone as a slim and convenient notebook",
+      "details": [
+        "Environmentally friendly tree-free paper with FSC Certificate to ensure they meet the highest environmental and social standards",
+        "32 blank pages",
+        "5.75 x 8.25 (14.6 x 21 cm"
+      ],
+      "image": [
+        "./images/51.webp",
+        "./images/52.webp"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Mr Gerald",
+      "price": "$5",
+      "Description": "use this blank-inside notebook as a refill for your medium Minimalist Folio or alone as a slim and convenient notebook",
+      "details": [
+        "Environmentally friendly tree-free paper with FSC Certificate to ensure they meet the highest environmental and social standards",
+        "32 blank pages",
+        "5.75 x 8.25 (14.6 x 21 cm"
+      ],
+      "image": [
+        "./images/51.webp",
+        "./images/52.webp"
+      ]
+    }
+  ]
+}
